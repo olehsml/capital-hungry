@@ -792,6 +792,12 @@ footer .columns {
   }
 }
 
+@media (max-width: 375px) {
+  .stats-list li {
+    width: 300px;
+  }
+}
+
 /* navmedia */
 @media screen and (max-width: 1080px) {
   /* navhum */
